@@ -1,0 +1,26 @@
+#container_app{
+	width: 300px;
+	border: 1px solid black;
+	margin: auto;
+	margin-top: 10%;
+	text-align: center;
+}
+#box_losowanie{
+	height: 100px;
+}
+#wybor_gracz{
+	display: inline-block;
+	width: 45%;
+	float: left;
+	margin: auto;
+}
+#wybor_komputer{
+	display: inline-block;
+	width: 45%;
+	float: right;
+}
+
+img{
+	width: 80px;
+	aspect-ratio: 1/1
+}
